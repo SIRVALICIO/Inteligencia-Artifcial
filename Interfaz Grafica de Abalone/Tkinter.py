@@ -189,7 +189,7 @@ def graficar():
     global asimetria
     global kurtosis
 
-
+    iguales=False
     copia = datos.copy()
     fig.clear()
 
@@ -204,6 +204,7 @@ def graficar():
         plot = fig.add_subplot(111)
         if(variable1==variable2):
             tkinter.messagebox.showinfo("Error al graficar","NO se puede hacer un diagrama con 2 variables iguales")
+            iguales=True
 
         else:
 
@@ -251,19 +252,20 @@ def graficar():
 
 
             canvas.draw()
-    moda = mode(copia[variable1])
-    print(copia[variable1])
-    mediana = copia[variable1].median()
-    asimetria = copia[variable1].skew()
-    media=copia[variable1].mean()
-    kurtosis=copia[variable1].kurtosis()
-    canvas.get_tk_widget().pack()
+    if iguales==False:
+        moda = mode(copia[variable1])
+        print(copia[variable1])
+        mediana = copia[variable1].median()
+        asimetria = copia[variable1].skew()
+        media=copia[variable1].mean()
+        kurtosis=copia[variable1].kurtosis()
+        canvas.get_tk_widget().pack()
 
-    mostrarModa()
-    mostrarMedia()
-    mostrarMediana()
-    mostrarAsimetria()
-    mostrarKurtosis()
+        mostrarModa()
+        mostrarMedia()
+        mostrarMediana()
+        mostrarAsimetria()
+        mostrarKurtosis()
 
 LabelGrafica=tk.Label(master,text="Elige un tipo de grafica")
 
