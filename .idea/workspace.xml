@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ed8f2752-8984-4410-9547-7a0bd8fcb8ad" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interfaz grafica de SE de palmas/SEPalmas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interfaz grafica de SE de palmas/SEPalmas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +106,8 @@
       <workItem from="1663261587015" duration="8437000" />
       <workItem from="1663273909228" duration="3840000" />
       <workItem from="1663279838045" duration="239000" />
-      <workItem from="1663423627804" duration="19346000" />
+      <workItem from="1663423627804" duration="19574000" />
+      <workItem from="1663557144504" duration="239000" />
     </task>
     <servers />
   </component>
@@ -127,6 +127,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Inteligencia_Artifcial$Tkinter.coverage" NAME="Tkinter Coverage Results" MODIFIED="1663104606572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interfaz Grafica de Abalone" />
-    <SUITE FILE_PATH="coverage/Inteligencia_Artifcial$SEPalmas.coverage" NAME="SEPalmas Coverage Results" MODIFIED="1663456040602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interfaz grafica de SE de palmas" />
+    <SUITE FILE_PATH="coverage/Inteligencia_Artifcial$SEPalmas.coverage" NAME="SEPalmas Coverage Results" MODIFIED="1663557223605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interfaz grafica de SE de palmas" />
   </component>
 </project>
