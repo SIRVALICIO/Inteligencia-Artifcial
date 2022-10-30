@@ -108,6 +108,14 @@
       <workItem from="1663279838045" duration="239000" />
       <workItem from="1663423627804" duration="19574000" />
       <workItem from="1663557144504" duration="239000" />
+      <workItem from="1664053473649" duration="6028000" />
+      <workItem from="1664073442292" duration="655000" />
+      <workItem from="1664122048747" duration="2426000" />
+      <workItem from="1664246375844" duration="55000" />
+      <workItem from="1664316734460" duration="20000" />
+      <workItem from="1664316849198" duration="9000" />
+      <workItem from="1664370674436" duration="604000" />
+      <workItem from="1664380433620" duration="27000" />
     </task>
     <servers />
   </component>
@@ -125,8 +133,29 @@
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Interfaz Grafica de Abalone/Tkinter.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Interfaz Grafica de Abalone/Tkinter.py</url>
+          <line>326</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Interfaz Grafica de Abalone/Tkinter.py</url>
+          <line>182</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Inteligencia_Artifcial$Tkinter.coverage" NAME="Tkinter Coverage Results" MODIFIED="1663104606572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interfaz Grafica de Abalone" />
-    <SUITE FILE_PATH="coverage/Inteligencia_Artifcial$SEPalmas.coverage" NAME="SEPalmas Coverage Results" MODIFIED="1663557223605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interfaz grafica de SE de palmas" />
+    <SUITE FILE_PATH="coverage/Inteligencia_Artifcial$SEPalmas.coverage" NAME="SEPalmas Coverage Results" MODIFIED="1664060561107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interfaz grafica de SE de palmas" />
   </component>
 </project>
