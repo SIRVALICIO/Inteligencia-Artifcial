@@ -41,7 +41,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.SEPalmas">
+  <component name="RunManager" selected="Python.Tkinter">
     <configuration name="SEPalmas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Inteligencia-Artifcial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,8 +88,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.SEPalmas" />
         <item itemvalue="Python.Tkinter" />
+        <item itemvalue="Python.SEPalmas" />
       </list>
     </recent_temporary>
   </component>
@@ -116,6 +116,11 @@
       <workItem from="1664316849198" duration="9000" />
       <workItem from="1664370674436" duration="604000" />
       <workItem from="1664380433620" duration="27000" />
+      <workItem from="1667089207963" duration="2597000" />
+      <workItem from="1667517621083" duration="623000" />
+      <workItem from="1667764091990" duration="81000" />
+      <workItem from="1668279331783" duration="655000" />
+      <workItem from="1668380001088" duration="36000" />
     </task>
     <servers />
   </component>
@@ -155,7 +160,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Inteligencia_Artifcial$Tkinter.coverage" NAME="Tkinter Coverage Results" MODIFIED="1663104606572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interfaz Grafica de Abalone" />
-    <SUITE FILE_PATH="coverage/Inteligencia_Artifcial$SEPalmas.coverage" NAME="SEPalmas Coverage Results" MODIFIED="1664060561107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interfaz grafica de SE de palmas" />
+    <SUITE FILE_PATH="coverage/Inteligencia_Artifcial$Tkinter.coverage" NAME="Tkinter Coverage Results" MODIFIED="1668279384902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interfaz Grafica de Abalone" />
+    <SUITE FILE_PATH="coverage/Inteligencia_Artifcial$SEPalmas.coverage" NAME="SEPalmas Coverage Results" MODIFIED="1668279357728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interfaz grafica de SE de palmas" />
   </component>
 </project>
